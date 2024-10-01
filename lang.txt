@@ -1,0 +1,10 @@
+c++ 
+csharp
+java 
+java script
+pascal
+pyton
+mini pyton
+kotlin
+shakespearean
+basik
